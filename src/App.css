@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.Pokemon-item:hover {
+  font-size: larger;
+  color: yellow;
+}
+
+.pokemon-stat {
+  font-size: larger;
+  color: black;
+}
+
+.html2canvas-container {
+  width: 3000px;
+  height: 3000px;
+}
+
+.padding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
